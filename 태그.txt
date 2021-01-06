@@ -1,0 +1,16 @@
+<strong> 글자 굵기
+
+<u> 글자 밑줄
+
+<h1> ~ <h6>  글자 크기
+
+<br>   줄바꿈 p 줄바꿈
+
+<img  src=" 이미지경로 "  width=" 100% , 450" ( 크기 조절 )>
+
+<parent>
+
+  <child></child>
+
+</parent>
+
